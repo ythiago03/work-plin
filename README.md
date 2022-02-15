@@ -7,6 +7,6 @@
   </div>
   <div align="center">
 Você pode conferir o resultado clicando
-<a href="https://ythiago03.github.io/work-plin/">aqui</a>
+<a href="https://ythiago03.github.io/work-plin/" target="_blank">aqui</a>
 </div>
 
