@@ -151,8 +151,8 @@ span{
     margin-top: 80px;
 }
 .btn input{
-    position: absolute;
-    left: 35%;
+    position: relative;
+    left: 270px;
     cursor: pointer;
     color: #6C63FF;
     background-color: black;
