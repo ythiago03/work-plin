@@ -1,17 +1,30 @@
-<br />
-<p align="center">
-  <h3 align="center">Work Plin</h3>
-  
-  <div>
-  <img src="https://user-images.githubusercontent.com/92443688/154102768-e231f42a-ca4a-4412-89a9-91c4338fb521.jpg">
-  </div>
- <h2> Welcome :</h2>
-  
-  <div align="left">
-  Este foi um desafio da devchallenge usando html e css para fazer uma página sobre um site de locação de co-work online.<br>
-  O projeto está original neste <a href="https://github.com/lubomfim/work-plin">repositório</a>.<br>
-Você pode conferir o resultado 
-<a href="https://ythiago03.github.io/work-plin/" target="_blank">clicando aqui</a>.
-  (ainda finalizando)
-</div>
+<h1 align="center">Work Plin</h1>
 
+<p align="center">This project was a challenge from devchallenge to create an online co-work rental site.</p>
+
+<img src="https://user-images.githubusercontent.com/92443688/154102768-e231f42a-ca4a-4412-89a9-91c4338fb521.jpg">
+
+<p align="center">
+    <a href="#about">about</a> •
+    <a href="#technologies">technologies</a> •
+    <a href="#author">author</a> 
+</p>
+
+<h4 align="center">🚧  This project is 🚀 under construction . . .  🚧 </h4>
+
+# About
+
+- The idea of ​​the project is to build an online co-work rental page as faithful as possible to the original template.
+- You can check the original project in <a href="https://github.com/lubomfim/work-plin">this repository</a>
+- There's no funcionality of form, the buttons and the forms are only for UI matters.
+- If you want to give me any tips or find a bug, feel free to contact me by my email: ythiagohcfidencio@gmail.com
+# Technologies
+
+To the following tools were used in the construction of the project:
+
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML5</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS3</a>
+
+# Author
+
+Made with 💜 by Thiago Henrique ✨<a href="https://www.linkedin.com/in/thiago-fid%C3%AAncio-a24578224/">See my linkedin</a>
