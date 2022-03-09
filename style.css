@@ -114,6 +114,7 @@ span{
     flex-direction: column;
 }
 .info input{
+    outline:none;
     border: 3px solid #6C63FF;
     padding: 20px 170px 20px 30px;
     border-radius: 10px;
